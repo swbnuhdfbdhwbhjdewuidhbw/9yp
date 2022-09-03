@@ -8,6 +8,6 @@
 
 # Stats
 <p align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=9yp&layout=compact&theme=midnightpurple"/>
-    <img src = "https://github-readme-stats.vercel.app/api?username=9yp&show_icons=true&theme=midnightpurple"/>
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=9yp&layout=compact&theme=midnight-purple"/>
+    <img src = "https://github-readme-stats.vercel.app/api?username=9yp&show_icons=true&theme=midnight-purple"/>
 </p>
