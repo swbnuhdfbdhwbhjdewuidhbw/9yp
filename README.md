@@ -9,5 +9,5 @@
 # Stats
 <p align = "center">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=9yp&layout=compact&theme=dark"/>
-    <img src = "https://github-readme-stats.vercel.app/api?username=9yp&show_icons=true&theme=midnight"/>
+    <img src = "https://github-readme-stats.vercel.app/api?username=9yp&show_icons=true&theme=radical"/>
 </p>
